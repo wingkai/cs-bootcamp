@@ -1,6 +1,6 @@
 namespace: Integrations.demo
 flow:
-  name: rpa
+  name: uft_test
   inputs:
     - aos_host: 10.0.46.31
     - aos_user: cheng
